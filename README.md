@@ -14,3 +14,5 @@ Resumen de Markdown
     - one more item
     - one more item
     - one more item
+
+Markdown tiene algunas otras funcionalidades.
